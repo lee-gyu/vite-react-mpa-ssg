@@ -1,0 +1,14 @@
+{
+	"name": "@examples/react-basic",
+	"private": true,
+	"version": "1.0.0",
+	"description": "",
+	"type": "module",
+	"exports": {
+		"./node": "./tsconfig.node.json"
+	},
+	"scripts": {},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}

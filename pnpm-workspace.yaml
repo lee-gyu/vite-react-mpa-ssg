@@ -1,0 +1,6 @@
+packages:
+  - "config/*"
+  - "packages/*"
+  - "examples/*"
+catalog:
+  vite: "^7.0.0"
